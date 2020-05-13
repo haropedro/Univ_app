@@ -26,7 +26,10 @@ gem 'materialize-sass', '~> 1.0.0'
 gem 'material_icons'
 gem 'jquery-rails'
 gem 'devise'
+<<<<<<< HEAD
 
+=======
+>>>>>>> 39dbd885a034734507347e5596b5d1a16bad221e
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

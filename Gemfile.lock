@@ -156,7 +156,10 @@ GEM
       nenv (~> 0.1)
       shellany (~> 0.0)
     orm_adapter (0.5.0)
+<<<<<<< HEAD
     pg (1.2.3-x64-mingw32)
+=======
+>>>>>>> 39dbd885a034734507347e5596b5d1a16bad221e
     pry (0.13.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
